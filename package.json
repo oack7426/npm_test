@@ -1,0 +1,18 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "npm_test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oack7426/npm_test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
